@@ -1,5 +1,5 @@
 {
-  "name": "webpack-es6-angular1x-material-playground",
+  "name": "webpack-es6-angular1x-playground",
   "version": "1.0.0",
   "description": "Personal Learning Playround for Webpack, ES6, AngularJS 1.x, Material Design, etc. ",
   "main": "index.js",
